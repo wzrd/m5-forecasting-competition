@@ -145,3 +145,4 @@ weight_mat_csr.pkl
 submission.csv
 submission3.csv
 sample_submission.csv
+model.lgb
