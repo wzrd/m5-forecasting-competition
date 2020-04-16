@@ -146,3 +146,6 @@ submission.csv
 submission3.csv
 sample_submission.csv
 model.lgb
+
+# "sandbox" file
+test.py
