@@ -134,12 +134,7 @@ dmypy.json
 # Project related
 
 # Pickle dump files
-m5_data.pkl
-m5_data_model2.pkl
-m5_data_test_model2.pkl
-weight1.pkl
-weight2.pkl
-weight_mat_csr.pkl
+*.pkl
 
 # other output files
 submission.csv
