@@ -140,6 +140,7 @@ dmypy.json
 submission.csv
 submission3.csv
 sample_submission.csv
+submission_direct.csv
 model.lgb
 
 # "sandbox" file
