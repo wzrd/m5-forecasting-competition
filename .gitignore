@@ -139,6 +139,9 @@ dmypy.json
 # other output files
 submission.csv
 submission3.csv
+submission_1.csv
+submission_2.csv
+submission_test.csv
 sample_submission.csv
 submission_direct.csv
 model.lgb
