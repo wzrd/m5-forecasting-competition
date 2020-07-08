@@ -148,3 +148,6 @@ model.lgb
 
 # "sandbox" file
 test.py
+
+# Data files
+data/*
